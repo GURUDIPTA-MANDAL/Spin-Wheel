@@ -4,5 +4,5 @@ import react from "@vitejs/plugin-react";
 
 export default defineConfig({
   plugins: [react()],
-  base: "/spin-wheel-app/", // Replace with your repo name
+  base: "/Spin-Wheel/", // Replace with your repo name
 });
